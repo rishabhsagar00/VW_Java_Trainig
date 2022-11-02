@@ -38,6 +38,22 @@ public class ArrayListEx {
           lst.set(0,130);
           System.out.println(lst); 
           System.out.println(lst.size());
+          
+          //LINKEDLIST 
+          
+          List<Integer> lst1 = new LinkedList<Integer>();
+
+
+
+          lst1.add(80);  // new Integer(80) -- autoboxing - box the primitve into object type
+          lst1.add(30);
+
+      //    lst.add("java");
+          lst1.add(10);
+//          lst.add(1);
+          System.out.println("This is the size of LinkedList "+lst.size());
+          
+          
 
 
     }
