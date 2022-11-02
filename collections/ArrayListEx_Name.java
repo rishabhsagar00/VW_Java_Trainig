@@ -1,13 +1,14 @@
 package collections;
 
 import java.awt.List;
+import java.util.ArrayList;
 
 public class ArrayListEx_Name {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		List <String> lstt= new ArrayList<String>();
+		List<String> lstt= new ArrayList<String>();
 		
 		lstt.add("A");
 		lstt.add("B");
