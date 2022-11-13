@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 09 11:05:17 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-5ae2-b1e3-000003612140 
+on database directory C:\Users\Rishabh\eclipse-workspace\firstADay\classobjects\namadbx with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 
+Loaded from file:/E:/New%20folder/Desktop/My%20sql%20driver/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=C:\Users\Rishabh\eclipse-workspace\firstADay\classobjects
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
