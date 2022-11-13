@@ -1,0 +1,34 @@
+Maven
+-Project Build Tool
+-create a maven project - of diff types based on diff archetypes
+-every maven project groupid,artifactid,version
+ 
+maven project:-
+-src/java,src/resources,src/test
+-Maven dependencies
+-POM.xml
+    --> groupid,artifactid,version
+    --> properties --> jdk version,tomcat version
+    --> dependencies --> dependency
+    --> plugin
+    --> repositories
+ 
+ 
+central repo:
+internet - jar file-dependency
+ 
+local repo:
+locally - store dependency - users/namra/.m2/repository
+ 
+settings.xml
+--maven details - proxy settings,profiles-->repositores,plugin repositories,jdk-properties
+ 
+choose location of setting.xml via eclipse-->preferences-->user settings -->browse and select path to settings.xml
+ 
+maven-build-lifecycle 
+build-lifecycle - phases compile,install,deploy
+goal - 
+profile -
+
+
+

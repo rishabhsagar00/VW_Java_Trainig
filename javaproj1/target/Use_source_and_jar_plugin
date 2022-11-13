@@ -1,0 +1,22 @@
+1) compile your java source code files to
+   .class file and create a jar frm it
+ 
+  mvn compile   (java -> class compile)
+
+  mvn jar:jar   ( compiled java .class file - jar)
+
+2) compile your test source code files to .class files
+   and create test jar out of it
+ 
+  mvn test-compile (test -> test.class compile test files)
+
+  mvn jar:test-jar (compiled test class filesb - jar)
+ 
+
+3) create a jar out of src/java source code files 
+ 
+   mvn source:jar   (java source code -jar)
+ 
+4) create a test-jar out of src/test source code files
+ 
+   mvn source:test-jar (test source code - jar)
