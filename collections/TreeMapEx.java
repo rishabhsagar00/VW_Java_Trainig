@@ -47,7 +47,7 @@ public class TreeMapEx {
         System.out.println(smp);
 
         System.out.println("sort employee keys of tree map in ascending order of emp names");
-        Comparator<Employee> c1 = new ComparatorImplEmpNames();
+        Comparator<Employee> c1 = new ComparatorImpl();
         meth(c1);
 
 

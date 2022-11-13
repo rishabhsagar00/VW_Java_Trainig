@@ -21,5 +21,4 @@ public class ArrayListEx_Name {
 //		char ne= lstt.get(0);
 
 	}
-
 }
