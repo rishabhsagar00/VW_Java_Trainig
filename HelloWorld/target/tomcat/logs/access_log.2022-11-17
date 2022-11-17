@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [17/Nov/2022:12:53:57 +0530] "GET /HelloWorld HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/Nov/2022:12:53:58 +0530] "GET /HelloWorld/ HTTP/1.1" 200 52 http-bio-9090-exec-3 1081
+0:0:0:0:0:0:0:1 - - [17/Nov/2022:12:53:59 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
+0:0:0:0:0:0:0:1 - - [17/Nov/2022:12:54:31 +0530] "GET /HelloWorld/helloworld?myname=rishi HTTP/1.1" 404 993 http-bio-9090-exec-6 7
